@@ -136,7 +136,7 @@ The database includes realistic sample data demonstrating all features:
 - Validates UNIQUE constraints
 - **Educational purpose**: Shows what happens when constraints are violated
 
-### 5. `05_views_queries.sql`
+### 5. `views_queries.sql`
 - Tests view functionality
 - Compares complex queries vs. simple view usage
 - Demonstrates view auto-update feature
