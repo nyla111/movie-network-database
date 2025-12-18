@@ -14,6 +14,7 @@ A complete Letterboxd-inspired movie social network database system for Database
 - User profiles with activity statistics
 
 ## Repository Structure
+```bash
 movie-network-database/
 ├── README.md                
 ├── set-up/
@@ -26,6 +27,7 @@ movie-network-database/
 │   └── views_queries.sql     # Tests and demonstrates views
 └── ERD.png                   # Complete ER Diagram
 └── Report_slide.pdf          # Full project report
+```
 
 ## Installation Instructions
 
